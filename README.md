@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 - Managed user accounts and OUs to practice **account provisioning** and **access control**  
 - Experimented with **PowerShell automation** and **system monitoring**
 
-#### 📦 [Yet Another Inventory System](#)
+#### 📦 [Yet Another Inventory System](https://github.com/ariest1021/yet-another-inventory-system)
 *Full-stack CRUD web app for café inventory management.*  
 - Built with **React, Node.js, Express, and SQLite**  
 - Created RESTful API endpoints and a responsive frontend with Axios  
 - Containerized with **Docker** for consistent development and deployment  
 - Someday expanding into **CI/CD deployment with GitHub Actions**
 
-#### 🎵 [Audio Converter](#)
+#### 🎵 [Audio Converter](https://github.com/ariest1021/audio-converter)
 *Command-line Python tool for batch audio conversions.*  
 - Automated **FFmpeg** and **FluidSynth** workflows to save hours of manual work  
 - Added multiprocessing and error handling for performance and reliability  
